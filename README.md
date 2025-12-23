@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+    <img height="90" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
   &nbsp; <a href="mailto:janirusudasinghe@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img height="90" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/users/janiru-sudasinghe/badges#credly">
-    <img height="40" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
+    <img height="90" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
   </a>
 </p>
 </div>
