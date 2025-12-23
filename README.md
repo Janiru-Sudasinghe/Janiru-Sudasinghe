@@ -22,26 +22,29 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-I am a **Network Engineering Undergraduate** and **Batch Top Distinction Holder (GPA 3.95)** at NIBM, specializing in Cybersecurity and System Stability. My passion lies in bridging the gap between theoretical network defense and practical, high-availability infrastructure.
+I am a security-focused **Network Engineering Undergraduate** and **Batch Top Distinction Holder (3.95 GPA)** at NIBM, dedicated to architecting resilient infrastructure. My expertise lies in converging **Network Defense** with **High-Availability Systems**, transitioning complex theoretical security models into practical, production-ready deployments.
 
-Currently, I am focused on **SOC methodologies**, **Secure Baseline Hardening**, and **Hybrid Cloud Implementations** (Azure/OCI).
+Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Security** (Azure/OCI), and **Enterprise Linux-Windows Integration**.
 
-* 🔭 I’m currently working on **High-Availability Network Design & Load Balancing**
-* 🌱 I’m currently learning **Advanced SOC Operations & ISO 27001 Auditing**
-* 🛡️ Top Skills: **Network Defence, Azure Security, Linux Hardening**
+* 🔭 **Current Focus:** Designing fault-tolerant network architectures & Layer 7 Load Balancing.
+* 🌱 **Professional Development:** Advancing in ISO 27001 Audit Standards & SOC Defense Methodologies.
+* 🛡️ **Core Competencies:** Network Defense, Cloud Identity (IAM), Infrastructure Hardening (Linux/Windows).
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Network & Security | Cloud & Virtualization | Tools & Automation |
-| :--- | :--- | :--- |
-| ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-AZ--104_%2F_AZ--500-0089D6?style=flat-square&logo=microsoft-azure) | ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible) |
-| ![Linux](https://img.shields.io/badge/Linux-Rocky_%2F_RedHat-FCC624?style=flat-square&logo=linux) | ![Oracle](https://img.shields.io/badge/Oracle-OCI-F80000?style=flat-square&logo=oracle) | ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark) |
-| ![Windows](https://img.shields.io/badge/Windows_Server-AD-0078D6?style=flat-square&logo=windows) | ![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=flat-square&logo=vmware) | ![Nmap](https://img.shields.io/badge/Nmap-Net_Sec-blue?style=flat-square&logo=nmap) |
+<div align="center">
 
+| Network & Security | Cloud & Virtualization | Tools & Automation |
+| :---: | :---: | :---: |
+| <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=plastic&logo=cisco&logoColor=white" alt="Cisco"/></a> | <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Microsoft_Azure-AZ--104_%2F_AZ--500-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/></a> | <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=plastic&logo=ansible&logoColor=white" alt="Ansible"/></a> |
+| <a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/Linux-Rocky_%2F_RedHat-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/></a> | <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle-OCI-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> | <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=plastic&logo=wireshark&logoColor=white" alt="Wireshark"/></a> |
+| <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-AD-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/></a> | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-pro"><img src="https://img.shields.io/badge/VMware-Workstation-607078?style=plastic&logo=vmware&logoColor=white" alt="VMware"/></a> | <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Net_Sec-blue?style=plastic&logo=nmap&logoColor=white" alt="Nmap"/></a> |
+
+</div>
 ---
 
 ### 🏆 Certifications
