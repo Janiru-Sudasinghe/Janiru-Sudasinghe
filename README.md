@@ -53,18 +53,18 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 <div align="center">
   
   <h3>🛡️ Core Infrastructure & Security</h3>
-  <img src="https://images.credly.com/images/1d82dd26-ce2d-4569-ae94-874c7c86510a/cisco-certified-network-associate-ccna.png" height="110" alt="CCNA"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/59389e6e-213c-47f2-959c-8597f8842600/azure-administrator-associate-600x600.png" height="110" alt="Azure Administrator"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/330ce11b-7880-4966-9a25-a4b51909a30b/azure-security-engineer-associate-600x600.png" height="110" alt="Azure Security"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/556e99d6-5272-430c-99d8-97c234a4d650/aviatrix-certified-engineer-multicloud-network-associate.png" height="110" alt="Multicloud Network Associate"/>
+  <img src="ccna.png" height="150" alt="CCNA"/>
+  &nbsp&nbsp&nbsp;
+  <img src="azure-administrator-associate-az-104-300x300.png" height="150" alt="Azure Administrator"/>
+  &nbsp&nbsp&nbsp;
+  <img src="az 500.png" height="150" alt="Azure Security"/>
+  &nbsp&nbsp&nbsp;
+  <img src="multicloud-network-associate.png" height="150" alt="Multicloud Network Associate"/>
 
   <br><br>
 
   <h3>☁️ Oracle Cloud Infrastructure (OCI)</h3>
-  <img src="https://images.credly.com/images/7376c669-7c42-4217-a068-19e917d3d231/oracle-cloud-infrastructure-foundations-2021-associate.png" height="110" alt="OCI Foundations Associate"/>
+  <img src="oci foun.png" height="110" alt="OCI Foundations Associate"/>
   &nbsp;&nbsp;
   <img src="https://images.credly.com/images/22026847-7347-4977-96d5-a74586d34b41/oracle-cloud-infrastructure-2023-networking-professional.png" height="110" alt="OCI Networking Professional"/>
   &nbsp;&nbsp;
