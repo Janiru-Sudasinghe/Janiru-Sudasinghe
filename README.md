@@ -64,24 +64,24 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   <br><br>
 
   <h3>☁️ Oracle Cloud Infrastructure (OCI)</h3>
-  <img src="oci foun.png" height="110" alt="OCI Foundations Associate"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/22026847-7347-4977-96d5-a74586d34b41/oracle-cloud-infrastructure-2023-networking-professional.png" height="110" alt="OCI Networking Professional"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/c2576b2c-2374-4dc2-807d-c47796d13c23/oracle-cloud-infrastructure-2024-generative-ai-professional.png" height="110" alt="OCI Generative AI"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/d3782746-1748-479c-a93c-236b284e314d/oracle-cloud-infrastructure-2023-ai-foundations-associate.png" height="110" alt="OCI AI Foundations"/>
+  <img src="oci foun.jpeg" height="110" alt="OCI Foundations Associate"/>
+  &nbsp&nbsp&nbsp;
+  <img src="oci pro net.jpg" height="110" alt="OCI Networking Professional"/>
+  &nbsp&nbsp&nbsp;
+  <img src="oci pro ai.jpg" height="110" alt="OCI Generative AI"/>
+  &nbsp&nbsp&nbsp;
+  <img src="oci ai asso.jpeg" height="110" alt="OCI AI Foundations"/>
 
   <br><br>
 
   <h3>📊 Data, Governance & Cyber Specialists</h3>
-  <img src="https://images.credly.com/images/790100f2-b258-4503-885e-f007dfae13c3/netsuite-certified-suiteanalytics-user.png" height="110" alt="NetSuite BI Specialist"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/6817290d-5872-463d-815a-69752528246e/oracle-cloud-data-management-2022-foundations-associate.png" height="110" alt="Oracle Data Platform"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/30349f7e-f674-4b53-b541-697e59b32cb7/iso-iec-27001-lead-auditor.png" height="110" alt="ISO 27001 Lead Auditor"/>
-  &nbsp;&nbsp;
-  <img src="https://images.credly.com/images/1546746b-29a5-4299-b146-243764b8c991/fortinet-certified-associate-cybersecurity.png" height="110" alt="Fortinet Associate"/>
+  <img src="Oracle NetSuite Certified BI and Reporting Specialist.png" height="110" alt="NetSuite BI Specialist"/>
+  &nbsp&nbsp;
+  <img src="data platform assoc.jpg" height="110" alt="Oracle Data Platform"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+  <img src="iso-iec-27001-2022-lead-auditor.png" height="120" alt="ISO 27001 Lead Auditor"/>
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+  <img src="fortinet-certified-associate-cybersecurity.1.png" height="110" alt="Fortinet Associate"/>
 
 </div>
 
