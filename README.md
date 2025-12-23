@@ -6,17 +6,18 @@
 
   ### 🛡️ Secure Infrastructure | Cloud Architecture | Network Defense
 
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL-HERE">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:janirudofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.credly.com/users/YOUR-CREDLY-URL">
-      <img src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+  </a>
+  &nbsp; <a href="mailto:janirusudasinghe@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/janiru-sudasinghe/badges#credly">
+    <img height="40" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
+  </a>
+</p>
 </div>
 
 ---
