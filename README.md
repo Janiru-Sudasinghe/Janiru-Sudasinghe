@@ -1,7 +1,7 @@
 <div align="center">
  
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=95" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=80" />
   </a>
 
 ---
@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img height="90" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
   &nbsp; <a href="mailto:janirusudasinghe@gmail.com">
-    <img height="90" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img height="40" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/users/janiru-sudasinghe/badges#credly">
-    <img height="90" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
+    <img height="40" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
   </a>
 </p>
 </div>
