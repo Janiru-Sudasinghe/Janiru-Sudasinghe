@@ -90,11 +90,20 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janiru-Sudasinghe&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiru-Sudasinghe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
+  
+  <h3>📊 Activity Dashboard</h3>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Janiru-Sudasinghe&style=flat-square&color=blueviolet" alt="profile counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janiru-Sudasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiru-Sudasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Janiru-Sudasinghe&theme=highcontrast&hide_border=true&border_radius=4" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Janiru-Sudasinghe&style=plastic&color=00ff00&label=PROFILE+VIEWS" height="85" alt="profile counter" />
+
 </div>
