@@ -1,7 +1,7 @@
 <div align="center">
  
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=55&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=80" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=70" />
   </a>
 
   ### 🛡️ Secure Infrastructure | Cloud Architecture | Network Defense
@@ -64,13 +64,13 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   <br><br>
 
   <h3>☁️ Oracle Cloud Infrastructure (OCI)</h3>
-  <img src="oci foun.jpeg" height="110" alt="OCI Foundations Associate"/>
-  &nbsp&nbsp&nbsp;
-  <img src="oci pro net.jpg" height="110" alt="OCI Networking Professional"/>
-  &nbsp&nbsp&nbsp;
-  <img src="oci pro ai.jpg" height="110" alt="OCI Generative AI"/>
-  &nbsp&nbsp&nbsp;
-  <img src="oci ai asso.jpeg" height="110" alt="OCI AI Foundations"/>
+  <img src="oci foun.jpeg" height="120" alt="OCI Foundations Associate"/>
+  &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp;
+  <img src="oci proo net.jpg" height="120" alt="OCI Networking Professional"/>
+  &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp;
+  <img src="oci proo ai.jpg" height="120" alt="OCI Generative AI"/>
+  &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp;
+  <img src="ocii ai asso.jpeg" height="120" alt="OCI AI Foundations"/>
 
   <br><br>
 
