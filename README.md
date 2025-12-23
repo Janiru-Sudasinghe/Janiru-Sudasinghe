@@ -42,18 +42,47 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 | :---: | :---: | :---: |
 | <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=plastic&logo=cisco&logoColor=white" alt="Cisco"/></a> | <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Microsoft_Azure-AZ--104_%2F_AZ--500-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/></a> | <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=plastic&logo=ansible&logoColor=white" alt="Ansible"/></a> |
 | <a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/Linux-Rocky_%2F_RedHat-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/></a> | <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle-OCI-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> | <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=plastic&logo=wireshark&logoColor=white" alt="Wireshark"/></a> |
-| <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-AD-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/></a> | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-pro"><img src="https://img.shields.io/badge/VMware-Workstation-607078?style=plastic&logo=vmware&logoColor=white" alt="VMware"/></a> | <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Net_Sec-blue?style=plastic&logo=nmap&logoColor=white" alt="Nmap"/></a> |
+| <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-AD-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/></a> | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion"><img src="https://img.shields.io/badge/VMware-Workstation-607078?style=plastic&logo=vmware&logoColor=white" alt="VMware"/></a> | <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Net_Sec-blue?style=plastic&logo=nmap&logoColor=white" alt="Nmap"/></a> |
 
 </div>
+
 ---
 
 ### 🏆 Certifications
 
 <div align="center">
+  
+  <h3>🛡️ Core Infrastructure & Security</h3>
   <img src="https://images.credly.com/images/1d82dd26-ce2d-4569-ae94-874c7c86510a/cisco-certified-network-associate-ccna.png" height="110" alt="CCNA"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/59389e6e-213c-47f2-959c-8597f8842600/azure-administrator-associate-600x600.png" height="110" alt="Azure Administrator"/>
+  &nbsp;&nbsp;
   <img src="https://images.credly.com/images/330ce11b-7880-4966-9a25-a4b51909a30b/azure-security-engineer-associate-600x600.png" height="110" alt="Azure Security"/>
-  <img src="https://images.credly.com/images/59389e6e-213c-47f2-959c-8597f8842600/azure-administrator-associate-600x600.png" height="110" alt="Azure Admin"/>
-  <img src="https://seeklogo.com/images/O/oracle-cloud-infrastructure-logo-50953E2332-seeklogo.com.png" height="100" alt="OCI"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/556e99d6-5272-430c-99d8-97c234a4d650/aviatrix-certified-engineer-multicloud-network-associate.png" height="110" alt="Multicloud Network Associate"/>
+
+  <br><br>
+
+  <h3>☁️ Oracle Cloud Infrastructure (OCI)</h3>
+  <img src="https://images.credly.com/images/7376c669-7c42-4217-a068-19e917d3d231/oracle-cloud-infrastructure-foundations-2021-associate.png" height="110" alt="OCI Foundations Associate"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/22026847-7347-4977-96d5-a74586d34b41/oracle-cloud-infrastructure-2023-networking-professional.png" height="110" alt="OCI Networking Professional"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/c2576b2c-2374-4dc2-807d-c47796d13c23/oracle-cloud-infrastructure-2024-generative-ai-professional.png" height="110" alt="OCI Generative AI"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/d3782746-1748-479c-a93c-236b284e314d/oracle-cloud-infrastructure-2023-ai-foundations-associate.png" height="110" alt="OCI AI Foundations"/>
+
+  <br><br>
+
+  <h3>📊 Data, Governance & Cyber Specialists</h3>
+  <img src="https://images.credly.com/images/790100f2-b258-4503-885e-f007dfae13c3/netsuite-certified-suiteanalytics-user.png" height="110" alt="NetSuite BI Specialist"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/6817290d-5872-463d-815a-69752528246e/oracle-cloud-data-management-2022-foundations-associate.png" height="110" alt="Oracle Data Platform"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/30349f7e-f674-4b53-b541-697e59b32cb7/iso-iec-27001-lead-auditor.png" height="110" alt="ISO 27001 Lead Auditor"/>
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/images/1546746b-29a5-4299-b146-243764b8c991/fortinet-certified-associate-cybersecurity.png" height="110" alt="Fortinet Associate"/>
+
 </div>
 
 ---
