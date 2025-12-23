@@ -1,8 +1,10 @@
 <div align="center">
  
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=95" />
   </a>
+
+---
 
   ### 🛡️ Secure Infrastructure | Cloud Architecture | Network Defense
 
