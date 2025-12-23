@@ -75,13 +75,13 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   <br><br>
 
   <h3>📊 Data, Governance & Cyber Specialists</h3>
-  <img src="Oracle NetSuite Certified BI and Reporting Specialist.png" height="110" alt="NetSuite BI Specialist"/>
+  <img src="Oracle NetSuite Certified BI and Reporting Specialist.png" height="120" alt="NetSuite BI Specialist"/>
   &nbsp&nbsp;
-  <img src="data platform assoc.jpg" height="110" alt="Oracle Data Platform"/>
+  <img src="data platform assoc.jpg" height="120" alt="Oracle Data Platform"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
-  <img src="iso-iec-27001-2022-lead-auditor.png" height="120" alt="ISO 27001 Lead Auditor"/>
+  <img src="iso-iec-27001-2022-lead-auditor.png" height="130" alt="ISO 27001 Lead Auditor"/>
    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
-  <img src="fortinet-certified-associate-cybersecurity.1.png" height="110" alt="Fortinet Associate"/>
+  <img src="fortinet-certified-associate-cybersecurity.1.png" height="120" alt="Fortinet Associate"/>
 
 </div>
 
