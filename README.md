@@ -87,11 +87,9 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity Dashboard
 
 <div align="center">
-  
-  <h3>📊 Activity Dashboard</h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Janiru-Sudasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiru-Sudasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
