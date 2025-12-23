@@ -50,7 +50,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 
 ---
 
-### 🏆 Certifications
+### 🏆 Professional Qualifications 
 
 <div align="center">
   
@@ -73,10 +73,11 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   &nbsp&nbsp&nbsp;
   <img src="data platform assoc.jpg" height="70" alt="Oracle Data Platform"/>
   &nbsp&nbsp&nbsp;
-  <img src="Oracle NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
-  
+  <img src="Oracl NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
+  &nbsp&nbsp&nbsp;
   <img src="iso-iec-27001-2022-lead-auditor.png" height="70" alt="ISO 27001 Lead Auditor"/>
   &nbsp&nbsp&nbsp;
+  <br>
   <img src="fortinet-certified-associate-cybersecurity.1.png" height="70" alt="Fortinet Associate"/>
 
 </div>
