@@ -55,30 +55,30 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 <div align="center">
   
   
-  <img src="ccna.png" height="70" alt="CCNA"/>
+  <img src="Images/ccna.png" height="70" alt="CCNA"/>
   &nbsp&nbsp&nbsp;
-  <img src="azure-administrator-associate-az-104-300x300.png" height="70" alt="Azure Administrator"/>
+  <img src="Images/azure-administrator-associate-az-104-300x300.png" height="70" alt="Azure Administrator"/>
   &nbsp&nbsp&nbsp;
-  <img src="az 500.png" height="70" alt="Azure Security"/>
+  <img src="Images/az 500.png" height="70" alt="Azure Security"/>
   &nbsp&nbsp&nbsp;
-  <img src="multicloud-network-associate.png" height="70" alt="Multicloud Network Associate"/>
+  <img src="Images/multicloud-network-associate.png" height="70" alt="Multicloud Network Associate"/>
   &nbsp&nbsp&nbsp;
-  <img src="oci foun.jpeg" height="70" alt="OCI Foundations Associate"/>
+  <img src="Images/oci foun.jpeg" height="70" alt="OCI Foundations Associate"/>
   &nbsp&nbsp&nbsp; 
-  <img src="oci proo net.jpg" height="70" alt="OCI Networking Professional"/>
+  <img src="Images/oci proo net.jpg" height="70" alt="OCI Networking Professional"/>
   &nbsp&nbsp&nbsp; 
-  <img src="oci proo ai.jpg" height="70" alt="OCI Generative AI"/>
+  <img src="Images/oci proo ai.jpg" height="70" alt="OCI Generative AI"/>
   &nbsp&nbsp&nbsp; 
-  <img src="ocii ai asso.jpeg" height="70" alt="OCI AI Foundations"/>
+  <img src="Images/ocii ai asso.jpeg" height="70" alt="OCI AI Foundations"/>
   &nbsp&nbsp&nbsp;
-  <img src="data platform assoc.jpg" height="70" alt="Oracle Data Platform"/>
+  <img src="Images/data platform assoc.jpg" height="70" alt="Oracle Data Platform"/>
   &nbsp&nbsp&nbsp;
    <br> <br>
-  <img src="Oracl NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
+  <img src="Images/Oracl NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
   &nbsp&nbsp&nbsp;
-  <img src="iso-iec-27001-2022-lead-auditor.png" height="70" alt="ISO 27001 Lead Auditor"/>
+  <img src="Images/iso-iec-27001-2022-lead-auditor.png" height="70" alt="ISO 27001 Lead Auditor"/>
   &nbsp&nbsp&nbsp;
-  <img src="fortinet-certified-associate-cybersecurity.1.png" height="70" alt="Fortinet Associate"/>
+  <img src="Images/fortinet-certified-associate-cybersecurity.1.png" height="70" alt="Fortinet Associate"/>
 
 </div>
 
