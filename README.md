@@ -99,7 +99,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   <br><br>
 
 <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janiru-Sudasinghe&theme=highcontrast&hide_border=true&border_radius=4" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janiru-Sudasinghe&theme=highcontrast&hide_border=true&border_radius=3" alt="GitHub Streak" />
   </a>
 
   <br><br>
