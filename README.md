@@ -4,11 +4,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=80" />
   </a>
 
----
-
-  ### 🛡️ Secure Infrastructure | Cloud Architecture | Network Defense
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
@@ -19,6 +15,10 @@
   <a href="https://www.credly.com/users/janiru-sudasinghe/badges#credly">
     <img height="40" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
   </a>
+ <br>
+ <br>
+
+   <img src="https://komarev.com/ghpvc/?username=Janiru-Sudasinghe&style=plastic&color=00ff00&label=PROFILE+VIEWS" height="85" alt="profile counter" />
 </p>
 </div>
 
@@ -84,21 +84,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 
 ---
 
-### 📊 Activity Dashboard
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Janiru-Sudasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiru-Sudasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 
-  <br><br>
 
-<a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janiru-Sudasinghe&theme=highcontrast&hide_border=true&border_radius=4" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Janiru-Sudasinghe&style=plastic&color=00ff00&label=PROFILE+VIEWS" height="85" alt="profile counter" />
-
-</div>
