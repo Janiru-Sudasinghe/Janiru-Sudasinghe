@@ -87,7 +87,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 ##
 
 ### ☁️ Cloud & Infrastructure
-* [**Microsoft Certified: Azure Security Engineer Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
+* [**Microsoft Certified: Azure Security Engineer Associate**](https://drive.google.com/file/d/1MAoXqjvJcJXd6sa90MczbdRJBinOU5lg/view?usp=drive_link) - *Microsoft*
 * [**Microsoft Certified: Azure Administrator Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
 * [**Microsoft Certified: Azure Network Engineer Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
 * [**Oracle Cloud Infrastructure 2025 Certified Networking Professional**](YOUR_LINK_HERE) - *Oracle*
@@ -127,7 +127,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 | **IBM** | Getting Started with Cybersecurity |
 | **Mastermind** | ISO/IEC 27001:2022 Lead Auditor |
 | **OPSWAT** | Introduction to Critical Infrastructure Protection (ICIP) |
-| **Red Team Leaders** | Certified Cybersecurity Educator Professional (CCEP) |
+| **ISC2** | Certified in Cybersecurity Course (CC) |
 | **SkillFront** | ISO/IEC 27001 Information Security Associate™ |
 | **The Linux Foundation** | Introduction to Linux LFS101 |
 | **SLIIT** | AIML Engineer - Stage 1 & 2 |
