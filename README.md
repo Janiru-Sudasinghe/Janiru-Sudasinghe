@@ -94,7 +94,7 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 * [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](https://drive.google.com/file/d/1w09Wbi742stLDK8n94JbmlDvCrINO_Ac/view?usp=sharing) - *Oracle*
 
 ### 🛡️ Cybersecurity & Networking
-* [**Cisco Certified Network Associate (CCNA)**]([YOUR_CREDLY_LINK_HERE](https://drive.google.com/file/d/1Sz-ivWdxA0p8ziigcocdinA0Wu4GO9i9/view?usp=drive_link)) - *Cisco*
+* [**Cisco Certified Network Associate (CCNA)**](https://drive.google.com/file/d/1Sz-ivWdxA0p8ziigcocdinA0Wu4GO9i9/view?usp=drive_link) - *Cisco*
 * [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1G4cDqbVDP7diefDNx7YaVjVO02Db5veM/view?usp=drive_link) - *Fortinet*
 * [**Certified Cybersecurity Educator Professional (CCEP)**](https://drive.google.com/file/d/15LS7Sp0kuMql52lhuRI-EfHHsUQztCgA/view?usp=sharing) - *Red Team Leaders*
 * [**Aviatrix Multicloud Network Associate**](https://drive.google.com/file/d/1Q6XKhEzyXlgCuX8-5UvqTyiP2wV1DRGi/view?usp=drive_link) - *Aviatrix*
