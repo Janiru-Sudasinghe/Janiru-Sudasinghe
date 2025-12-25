@@ -61,6 +61,8 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   &nbsp&nbsp&nbsp;
   <img src="Images/az 500.png" height="70" alt="Azure Security"/>
   &nbsp&nbsp&nbsp;
+  <img src="Images/az 700.png" height="70" alt="Azure Network Engineer"/>
+  &nbsp&nbsp&nbsp;
   <img src="Images/multicloud-network-associate.png" height="70" alt="Multicloud Network Associate"/>
   &nbsp&nbsp&nbsp;
   <img src="Images/oci foun.jpeg" height="70" alt="OCI Foundations Associate"/>
@@ -71,9 +73,9 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
   &nbsp&nbsp&nbsp; 
   <img src="Images/ocii ai asso.jpeg" height="70" alt="OCI AI Foundations"/>
   &nbsp&nbsp&nbsp;
+  <br> <br>
   <img src="Images/data platform assoc.jpg" height="70" alt="Oracle Data Platform"/>
   &nbsp&nbsp&nbsp;
-   <br> <br>
   <img src="Images/Oracl NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
   &nbsp&nbsp&nbsp;
   <img src="Images/iso-iec-27001-2022-lead-auditor.png" height="70" alt="ISO 27001 Lead Auditor"/>
