@@ -87,17 +87,17 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 ##
 
 ### ☁️ Cloud & Infrastructure
-* [**Microsoft Certified: Azure Security Engineer Associate**](https://drive.google.com/file/d/1MAoXqjvJcJXd6sa90MczbdRJBinOU5lg/view?usp=drive_link) - *Microsoft*
-* [**Microsoft Certified: Azure Administrator Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
-* [**Microsoft Certified: Azure Network Engineer Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
-* [**Oracle Cloud Infrastructure 2025 Certified Networking Professional**](YOUR_LINK_HERE) - *Oracle*
-* [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](YOUR_LINK_HERE) - *Oracle*
+* [**Microsoft Certified: Azure Security Engineer Associate**](https://drive.google.com/file/d/1qiPj8jn9IouaJ9UdplmpJl1D9WlyZest/view?usp=drive_link) - *Microsoft*
+* [**Microsoft Certified: Azure Administrator Associate**](https://drive.google.com/file/d/1su3ITLX09UNRdC7ttqi1vOtIVwRPZtHJ/view?usp=drive_link) - *Microsoft*
+* [**Microsoft Certified: Azure Network Engineer Associate**](https://drive.google.com/file/d/1MAoXqjvJcJXd6sa90MczbdRJBinOU5lg/view?usp=drive_link) - *Microsoft*
+* [**Oracle Cloud Infrastructure 2025 Certified Networking Professional**](https://drive.google.com/file/d/16AH1M9pAQJO-3MhuTCdkpa9kUg8qyh4O/view?usp=drive_link) - *Oracle*
+* [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](https://drive.google.com/file/d/1w09Wbi742stLDK8n94JbmlDvCrINO_Ac/view?usp=sharing) - *Oracle*
 
 ### 🛡️ Cybersecurity & Networking
-* [**Cisco Certified Network Associate (CCNA)**](YOUR_CREDLY_LINK_HERE) - *Cisco*
-* [**Fortinet Certified Associate in Cybersecurity**](YOUR_LINK_HERE) - *Fortinet*
-* [**Certified Cybersecurity Educator Professional (CCEP)**](YOUR_LINK_HERE) - *Red Team Leaders*
-* [**Aviatrix Multicloud Network Associate**](YOUR_LINK_HERE) - *Aviatrix*
+* [**Cisco Certified Network Associate (CCNA)**]([YOUR_CREDLY_LINK_HERE](https://drive.google.com/file/d/1Sz-ivWdxA0p8ziigcocdinA0Wu4GO9i9/view?usp=drive_link)) - *Cisco*
+* [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1G4cDqbVDP7diefDNx7YaVjVO02Db5veM/view?usp=drive_link) - *Fortinet*
+* [**Certified Cybersecurity Educator Professional (CCEP)**](https://drive.google.com/file/d/15LS7Sp0kuMql52lhuRI-EfHHsUQztCgA/view?usp=sharing) - *Red Team Leaders*
+* [**Aviatrix Multicloud Network Associate**](https://drive.google.com/file/d/1Q6XKhEzyXlgCuX8-5UvqTyiP2wV1DRGi/view?usp=drive_link) - *Aviatrix*
 
 ##
 
