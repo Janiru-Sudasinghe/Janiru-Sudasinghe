@@ -84,6 +84,59 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 
 </div>
 
+##
+
+### ☁️ Cloud & Infrastructure
+* [**Microsoft Certified: Azure Security Engineer Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
+* [**Microsoft Certified: Azure Administrator Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
+* [**Microsoft Certified: Azure Network Engineer Associate**](YOUR_CREDLY_LINK_HERE) - *Microsoft*
+* [**Oracle Cloud Infrastructure 2025 Certified Networking Professional**](YOUR_LINK_HERE) - *Oracle*
+* [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](YOUR_LINK_HERE) - *Oracle*
+
+### 🛡️ Cybersecurity & Networking
+* [**Cisco Certified Network Associate (CCNA)**](YOUR_CREDLY_LINK_HERE) - *Cisco*
+* [**Fortinet Certified Associate in Cybersecurity**](YOUR_LINK_HERE) - *Fortinet*
+* [**Certified Cybersecurity Educator Professional (CCEP)**](YOUR_LINK_HERE) - *Red Team Leaders*
+* [**Aviatrix Multicloud Network Associate**](YOUR_LINK_HERE) - *Aviatrix*
+
+##
+
+<details>
+<summary><b>📂 View Full List of Certifications & Course Completions (40+)</b></summary>
+<br>
+
+| Issuing Organization | Certification / Course Name |
+| :--- | :--- |
+| **Cisco** | Cyber Threat Management |
+| **Cisco** | Endpoint Security |
+| **Cisco** | Ethical Hacker |
+| **Cisco** | Network Defence |
+| **Cisco** | Junior Cybersecurity Analyst Career Path |
+| **Oracle** | OCI 2025 Certified AI Foundations Associate |
+| **Oracle** | OCI 2025 Certified Foundations Associate |
+| **Oracle** | Oracle Data Platform 2025 Certified Foundations Associate |
+| **Oracle** | NetSuite Certified BI and Reporting Specialist |
+| **Red Hat** | Red Hat System Administration I |
+| **Red Hat** | Red Hat AI Foundations Executive |
+| **Salesforce** | Salesforce Certified Agentforce Specialist |
+| **APNIC** | Cybersecurity Fundamentals |
+| **Council for Six Sigma** | Six Sigma White Belt |
+| **EC Council** | A Practical Introduction to Cloud Computing |
+| **Fortinet** | Fortinet Certified Fundamentals in Cybersecurity |
+| **IBM** | Artificial Intelligence Fundamentals |
+| **IBM** | Getting Started with Cybersecurity |
+| **Mastermind** | ISO/IEC 27001:2022 Lead Auditor |
+| **OPSWAT** | Introduction to Critical Infrastructure Protection (ICIP) |
+| **Red Team Leaders** | Certified Cybersecurity Educator Professional (CCEP) |
+| **SkillFront** | ISO/IEC 27001 Information Security Associate™ |
+| **The Linux Foundation** | Introduction to Linux LFS101 |
+| **SLIIT** | AIML Engineer - Stage 1 & 2 |
+| **UOM** | Python & Web Design for Beginners |
+
+</details>
+
+
+
 ---
 
 
