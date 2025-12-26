@@ -119,11 +119,9 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 | **Red Hat** | Red Hat System Administration I |
 | **Red Hat** | Red Hat AI Foundations Executive |
 | **Salesforce** | Salesforce Certified Agentforce Specialist |
-| **APNIC** | Cybersecurity Fundamentals |
 | **Council for Six Sigma** | Six Sigma White Belt |
 | **EC Council** | A Practical Introduction to Cloud Computing |
 | **Fortinet** | Fortinet Certified Fundamentals in Cybersecurity |
-| **IBM** | Artificial Intelligence Fundamentals |
 | **IBM** | Getting Started with Cybersecurity |
 | **Mastermind** | ISO/IEC 27001:2022 Lead Auditor |
 | **OPSWAT** | Introduction to Critical Infrastructure Protection (ICIP) |
@@ -131,7 +129,6 @@ Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Se
 | **SkillFront** | ISO/IEC 27001 Information Security Associate™ |
 | **The Linux Foundation** | Introduction to Linux LFS101 |
 | **SLIIT** | AIML Engineer - Stage 1 & 2 |
-| **UOM** | Python & Web Design for Beginners |
 
 </details>
 
