@@ -128,7 +128,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 |---|---|
 | **Objective** | Architect a resilient CI/CD platform with security controls embedded at the pipeline level (DevSecOps). |
 | **Approach** | Built for high availability across cloud infrastructure using fault-tolerant deployment patterns and integrated security gating at each release stage. |
-| **Relevance** | Demonstrates the ability to balance delivery velocity with security governance — a critical skill set as organizations shift security left in the SDLC. |
+| **Relevance** | Demonstrates the ability to balance delivery velocity with security governance - a critical skill set as organizations shift security left in the SDLC. |
 | **Tags** | `CI/CD` `High Availability` `Cloud Architecture` `DevSecOps` |
 
 **[View Repository →](https://github.com/Janiru-Sudasinghe/Highly-Available-CI-CD-Web-Infrastructure-on-AWS)**
@@ -149,12 +149,12 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 | Microsoft Certified: Azure Network Engineer Associate | AZ-700 | Microsoft | Cloud Networking |
 | Fortinet Certified Associate | FCA | Fortinet | Network Security |
 | Cisco Certified Network Associate | CCNA | Cisco | Networking Fundamentals |
-| ISO/IEC 27001:2022 Lead Auditor | — | PECB / Accredited Body | Information Security Governance |
+| ISO/IEC 27001:2022 Lead Auditor | - | PECB / Accredited Body | Information Security Governance |
 | Red Hat System Administration II | RH134 | Red Hat | Linux Systems Administration |
-| OCI Networking Professional | — | Oracle | Cloud Networking |
+| OCI Networking Professional | - | Oracle | Cloud Networking |
 | Aviatrix Multi-Cloud Network Associate | MCNA | Aviatrix | Multi-Cloud Networking |
-| Nutanix Certified Professional — Network & Security | NCP-N&S 7 | Nutanix | Hybrid Cloud Networking & Security |
-| Google Cloud Associate Cloud Engineer | — | Google Cloud | Cloud Engineering |
+| Nutanix Certified Professional - Network & Security | NCP-N&S 7 | Nutanix | Hybrid Cloud Networking & Security |
+| Google Cloud Associate Cloud Engineer | - | Google Cloud | Cloud Engineering |
  
 </div>
 
@@ -193,7 +193,7 @@ National Institute of Business Management (NIBM)
 | Email | [Gmail.com](mailto:janirusudasinghe@gmail.com) |
 | GitHub | [GitHub.com](https://github.com/Janiru-Sudasinghe) |
 
-**Open to SOC Analyst, Security Engineering, and Cloud Security opportunities.**
+**Open to SOC Analyst, Security Engineering, Network Security and Cloud Security opportunities.**
 
 *"Detect early. Respond decisively. Harden continuously."*
 
