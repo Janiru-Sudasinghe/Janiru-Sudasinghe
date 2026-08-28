@@ -78,7 +78,22 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 <img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
+
 ### Cyber Threat Intelligence
+<p>
+<img src="https://img.shields.io/badge/MISP-002B5C?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCTI-001F3F?style=flat-square" />
+<img src="https://img.shields.io/badge/Recorded%20Future-D6262C?style=flat-square" />
+<img src="https://img.shields.io/badge/ThreatConnect-E31E24?style=flat-square" />
+<img src="https://img.shields.io/badge/AlienVault%20OTX-1B2A4A?style=flat-square" />
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/Shodan-EA1C25?style=flat-square" />
+<img src="https://img.shields.io/badge/Maltego-38598A?style=flat-square" />
+<img src="https://img.shields.io/badge/IntelligenceX-1A1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-1E1E2E?style=flat-square" />
+<img src="https://img.shields.io/badge/Dark%20Web%20Monitoring-2D0A31?style=flat-square" />
+<img src="https://img.shields.io/badge/Anomali-2E86C1?style=flat-square" />
+</p>
 
 ---
 
@@ -92,7 +107,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 | **Relevance** | Directly applicable to regulated, classified, or OT/ICS environments where air-gapping is a compliance mandate rather than a design preference. |
 | **Tags** | `SIEM` `Log Pipeline Engineering` `Isolated Network Architecture` `Detection Engineering` |
 
-**[View Repository →](https://github.com/your-github-username/air-gapped-siem-pipeline)**
+**[View Repository →](https://github.com/Janiru-Sudasinghe/Airgapped-OTel-SecOps-Pipeline)**
 
 ---
 
@@ -104,7 +119,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 | **Relevance** | Supports audit-readiness and demonstrates a measurable, standards-aligned approach to endpoint hardening — a core expectation for SOC and infrastructure security roles. |
 | **Tags** | `Linux Hardening` `Auditd` `Lynis` `CIS Benchmarks` `Compliance` |
 
-**[View Repository →](https://github.com/your-github-username/linux-security-hardening)**
+**[View Repository →](https://github.com/Janiru-Sudasinghe/Rocky-Linux-Security-Hardening)**
 
 ---
 
@@ -116,7 +131,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 | **Relevance** | Demonstrates the ability to balance delivery velocity with security governance — a critical skill set as organizations shift security left in the SDLC. |
 | **Tags** | `CI/CD` `High Availability` `Cloud Architecture` `DevSecOps` |
 
-**[View Repository →](https://github.com/your-github-username/ha-cloud-cicd-platform)**
+**[View Repository →](https://github.com/Janiru-Sudasinghe/Highly-Available-CI-CD-Web-Infrastructure-on-AWS)**
 
 ---
 
