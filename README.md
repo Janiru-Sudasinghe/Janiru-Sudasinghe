@@ -2,12 +2,12 @@
 
 # JANIRU DINNATH SUDASINGHE
 
-### Cybersecurity Undergraduate · SOC Analyst · Threat Detection & Response
+### Cybersecurity Undergraduate · SOC Analyst · Red Teaming
 
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=minutemailer&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:janirusudasinghe@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=minutemailer&logoColor=white" /></a>
+<a href="https://www.credly.com/users/janiru-sudasinghe/edit"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Location-Sri%20Lanka-333333?style=flat-square" />
 </p>
 
