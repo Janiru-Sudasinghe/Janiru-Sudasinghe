@@ -30,17 +30,18 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 ---
 
 ## Core Competencies
-
+ 
 | Domain | Competency |
 |---|---|
-| **Security Operations** | SIEM correlation rule engineering, SOAR playbook automation, alert triage, log pipeline design |
-| **Threat Intelligence** | Threat hunting methodology, IOC enrichment, CTI-driven detection engineering |
-| **Cloud Security** | Multi-cloud security posture management across Azure, OCI, and GCP |
-| **Network Security** | Perimeter defense and policy administration on Check Point and FortiGate platforms |
-| **System Hardening** | Linux kernel-level auditing and CIS-aligned hardening benchmarks |
-| **Governance & Frameworks** | Familiarity with NIST CSF, MITRE ATT&CK, and Zero Trust architecture principles |
-| **Leadership** | Team coordination, mentorship, and structured communication under operational pressure |
-
+| **Security Operations** | SIEM correlation rule engineering, SOAR playbook automation, alert triage and escalation, log pipeline design |
+| **Cyber Threat Intelligence** | IOC enrichment and pivoting, CTI-informed detection engineering, indicator lifecycle management |
+| **Threat Hunting** | Hypothesis-driven hunting methodology, proactive identification of indicators of compromise ahead of automated alerting |
+| **Dashboard Creation** | Design and development of SIEM/SOC dashboards for real-time visibility, KPI tracking, and executive reporting |
+| **VAPT** | Vulnerability assessment and penetration testing across network, system, and application layers |
+| **Agentic AI Automation** | Applied integration of agentic AI workflows into security operations and automation pipelines |
+| **Cloud Security** | Multi-cloud security posture management and configuration review across Azure, OCI, and GCP |
+| **Network Security** | Perimeter defense, firewall policy administration, and traffic inspection on Check Point and FortiGate |
+ 
 ---
 
 ## Professional Experience
