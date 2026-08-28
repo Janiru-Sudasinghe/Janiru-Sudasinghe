@@ -103,35 +103,41 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 
 ---
 
-## Featured Projects
+## Latest Projects
 
 ### Air-Gapped SIEM Log Pipeline
-**Objective:** Deliver reliable log ingestion and correlation for environments with no external connectivity, where standard cloud-fed threat intelligence is unavailable.
-**Approach:** Designed an isolated collection and forwarding pipeline with local correlation logic, preserving detection capability without external dependencies.
-**Relevance:** Directly applicable to regulated, classified, or OT/ICS environments where air-gapping is a compliance mandate rather than a design preference.
-`SIEM` `Log Pipeline Engineering` `Isolated Network Architecture` `Detection Engineering`
+| | |
+|---|---|
+| **Objective** | Deliver reliable log ingestion and correlation for environments with no external connectivity, where standard cloud-fed threat intelligence is unavailable. |
+| **Approach** | Designed an isolated collection and forwarding pipeline with local correlation logic, preserving detection capability without external dependency on internet-facing feeds. |
+| **Relevance** | Directly applicable to regulated, classified, or OT/ICS environments where air-gapping is a compliance mandate rather than a design preference. |
+| **Tags** | `SIEM` `Log Pipeline Engineering` `Isolated Network Architecture` `Detection Engineering` |
 
-[Repository →](https://github.com/your-github-username/air-gapped-siem-pipeline)
+**[View Repository →](https://github.com/your-github-username/air-gapped-siem-pipeline)**
 
 ---
 
 ### Linux Security Hardening — Auditd & Lynis
-**Objective:** Establish a repeatable, benchmarked hardening baseline for Linux hosts.
-**Approach:** Implemented kernel-level auditing via **Auditd** to capture granular system events, paired with **Lynis** for automated security scoring and CIS-aligned compliance assessment.
-**Relevance:** Supports audit-readiness and demonstrates a measurable, standards-aligned approach to endpoint hardening — a core expectation for SOC and infrastructure security roles.
-`Linux Hardening` `Auditd` `Lynis` `CIS Benchmarks` `Compliance`
+| | |
+|---|---|
+| **Objective** | Establish a repeatable, benchmarked hardening baseline for Linux hosts. |
+| **Approach** | Implemented kernel-level auditing via **Auditd** for granular system-event capture, paired with **Lynis** for automated security scoring and CIS-aligned compliance assessment. |
+| **Relevance** | Supports audit-readiness and demonstrates a measurable, standards-aligned approach to endpoint hardening — a core expectation for SOC and infrastructure security roles. |
+| **Tags** | `Linux Hardening` `Auditd` `Lynis` `CIS Benchmarks` `Compliance` |
 
-[Repository →](https://github.com/your-github-username/linux-security-hardening)
+**[View Repository →](https://github.com/your-github-username/linux-security-hardening)**
 
 ---
 
 ### Highly Available Cloud CI/CD Platform
-**Objective:** Architect a resilient CI/CD platform with security controls embedded at the pipeline level (DevSecOps).
-**Approach:** Built for high availability across cloud infrastructure with fault-tolerant deployment patterns and integrated security gating.
-**Relevance:** Demonstrates the ability to balance delivery velocity with security governance — a critical skill set as organizations shift left on security.
-`CI/CD` `High Availability` `Cloud Architecture` `DevSecOps`
+| | |
+|---|---|
+| **Objective** | Architect a resilient CI/CD platform with security controls embedded at the pipeline level (DevSecOps). |
+| **Approach** | Built for high availability across cloud infrastructure using fault-tolerant deployment patterns and integrated security gating at each release stage. |
+| **Relevance** | Demonstrates the ability to balance delivery velocity with security governance — a critical skill set as organizations shift security left in the SDLC. |
+| **Tags** | `CI/CD` `High Availability` `Cloud Architecture` `DevSecOps` |
 
-[Repository →](https://github.com/your-github-username/ha-cloud-cicd-platform)
+**[View Repository →](https://github.com/your-github-username/ha-cloud-cicd-platform)**
 
 ---
 
