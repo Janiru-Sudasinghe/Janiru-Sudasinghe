@@ -46,36 +46,27 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 
 ## Professional Experience
 
-**Cybersecurity Intern — NCINGA**
+**Cybersecurity Intern - NCINGA**
 *Current*
 - Develop and tune custom SIEM correlation rules to improve detection fidelity and reduce false-positive rates.
 - Design and implement SOAR-driven automation for incident response workflows, decreasing manual analyst workload.
 - Support threat hunting and CTI activities to proactively identify indicators of compromise ahead of automated alerting.
 
-**Google Developer Program — GEAR Participant**
-*Current*
-- Engaged in structured upskilling across cloud architecture and applied AI integration.
-
-**Google Cloud Arcade Facilitator**
-*Current*
-- Facilitates peer learning on Google Cloud services, reinforcing hands-on GCP proficiency.
-
 ---
 
 ## Technical Proficiencies
 
-### Security Operations & Detection Engineering
+### Security Operations 
 <p>
 <img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/LogRhythm-00558C?style=flat-square" />
 <img src="https://img.shields.io/badge/Wazuh-3AB0FF?style=flat-square" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C41E3A?style=flat-square" />
 </p>
 
-### Network & Perimeter Security
+### Network Security
 <p>
 <img src="https://img.shields.io/badge/Check%20Point-E4232E?style=flat-square" />
-<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/FortiNet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
@@ -84,22 +75,6 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-### Systems, Hardening & Auditing
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Auditd-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Lynis-4B0082?style=flat-square" />
-<img src="https://img.shields.io/badge/CIS%20Benchmarks-005571?style=flat-square" />
-</p>
-
-### Infrastructure & Delivery
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
