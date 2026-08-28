@@ -189,9 +189,9 @@ National Institute of Business Management (NIBM)
 
 | Channel | Link |
 |---|---|
-| LinkedIn | [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/) |
-| Email | [Email_Me](mailto:janirusudasinghe@gmail.com) |
-| GitHub | [github.com/Janiru-Sudasinghe](https://github.com/Janiru-Sudasinghe) |
+| LinkedIn | [Linkedin.com](https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/) |
+| Email | [Gmail.com](mailto:janirusudasinghe@gmail.com) |
+| GitHub | [GitHub.com](https://github.com/Janiru-Sudasinghe) |
 
 **Open to SOC Analyst, Security Engineering, and Cloud Security opportunities.**
 
