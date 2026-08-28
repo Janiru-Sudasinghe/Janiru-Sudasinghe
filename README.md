@@ -1,142 +1,188 @@
 <div align="center">
- 
-  <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Janiru%20Sudasinghe&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=45&desc=SOC%20Analysis%20|%20CyberSecurity%20|%20Network%20Security%20&descSize=20&descAlignY=80" />
-  </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
-  </a>
-  &nbsp; <a href="mailto:janirusudasinghe@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/users/janiru-sudasinghe/badges#credly">
-    <img height="40" src="https://img.shields.io/badge/Credly-Verify_Badges-F05032?style=plastic&logo=credly&logoColor=white" alt="Verify Badges"/>
-  </a>
- <br>
- <br>
+# JANIRU DINNATH SUDASINGHE
 
-   <img src="https://komarev.com/ghpvc/?username=Janiru-Sudasinghe&style=plastic&color=00ff00&label=PROFILE+VIEWS" height="85" alt="profile counter" />
+### Cybersecurity Undergraduate · SOC Analyst · Threat Detection & Response
+
+<p>
+<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=minutemailer&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Sri%20Lanka-333333?style=flat-square" />
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/Status-Actively%20Practicing%20SOC%20Operations-2E7D32?style=flat-square" />
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary
+## Executive Summary
 
-I am a security-focused **Network Engineering Undergraduate** and **Batch Top Distinction Holder (3.95 GPA)** at NIBM, dedicated to architecting resilient infrastructure. My expertise lies in converging **Network Defense** with **High-Availability Systems**, transitioning complex theoretical security models into practical, production-ready deployments.
+Cybersecurity undergraduate and practicing SOC Analyst with hands-on operational experience in **SIEM/SOAR-driven threat detection, threat hunting, and Cyber Threat Intelligence (CTI)**. Currently engaged as a Cybersecurity Intern at **NCINGA**, where responsibilities include the design and tuning of custom SIEM correlation rules and the automation of incident response workflows to reduce mean time to detect (MTTD) and mean time to respond (MTTR).
 
-Currently, I am specializing in **Secure Baseline Hardening**, **Hybrid Cloud Security** (Azure/OCI), and **Enterprise Linux-Windows Integration**.
+Working knowledge spans **multi-cloud security architecture** (Azure, OCI, GCP), **network perimeter defense** (Check Point, FortiGate), and **Linux system hardening**, underpinned by formal training toward Microsoft, Fortinet, and Cisco security certifications. Actively expanding cloud and applied-AI competencies through the **Google Developer Program (GEAR)** and the **Google Cloud Arcade Facilitator Program**.
 
-* 🔭 **Current Focus:** Designing fault-tolerant network architectures & Layer 7 Load Balancing.
-* 🌱 **Professional Development:** Advancing in ISO 27001 Audit Standards & SOC Defense Methodologies.
-* 🛡️ **Core Competencies:** Network Defense, Cloud Identity (IAM), Infrastructure Hardening (Linux/Windows).
+Beyond the technical remit, brings demonstrated leadership and stakeholder-management capability — evidenced by tenure as **Head Prefect** and **Volunteer Instructor** — and operates as an **ENFJ-A**, a profile associated with structured communication, team coordination, and cross-functional collaboration, all directly transferable to SOC shift-handover discipline and incident-response coordination.
 
 ---
 
-### 🛠️ Technical Arsenal
+## Core Competencies
+
+| Domain | Competency |
+|---|---|
+| **Security Operations** | SIEM correlation rule engineering, SOAR playbook automation, alert triage, log pipeline design |
+| **Threat Intelligence** | Threat hunting methodology, IOC enrichment, CTI-driven detection engineering |
+| **Cloud Security** | Multi-cloud security posture management across Azure, OCI, and GCP |
+| **Network Security** | Perimeter defense and policy administration on Check Point and FortiGate platforms |
+| **System Hardening** | Linux kernel-level auditing and CIS-aligned hardening benchmarks |
+| **Governance & Frameworks** | Familiarity with NIST CSF, MITRE ATT&CK, and Zero Trust architecture principles |
+| **Leadership** | Team coordination, mentorship, and structured communication under operational pressure |
+
+---
+
+## Professional Experience
+
+**Cybersecurity Intern — NCINGA**
+*Current*
+- Develop and tune custom SIEM correlation rules to improve detection fidelity and reduce false-positive rates.
+- Design and implement SOAR-driven automation for incident response workflows, decreasing manual analyst workload.
+- Support threat hunting and CTI activities to proactively identify indicators of compromise ahead of automated alerting.
+
+**Google Developer Program — GEAR Participant**
+*Current*
+- Engaged in structured upskilling across cloud architecture and applied AI integration.
+
+**Google Cloud Arcade Facilitator**
+*Current*
+- Facilitates peer learning on Google Cloud services, reinforcing hands-on GCP proficiency.
+
+---
+
+## Technical Proficiencies
+
+### Security Operations & Detection Engineering
+<p>
+<img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/LogRhythm-00558C?style=flat-square" />
+<img src="https://img.shields.io/badge/Wazuh-3AB0FF?style=flat-square" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C41E3A?style=flat-square" />
+</p>
+
+### Network & Perimeter Security
+<p>
+<img src="https://img.shields.io/badge/Check%20Point-E4232E?style=flat-square" />
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+### Cloud Security (Multi-Cloud)
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+### Systems, Hardening & Auditing
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Auditd-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Lynis-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/CIS%20Benchmarks-005571?style=flat-square" />
+</p>
+
+### Infrastructure & Delivery
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### Air-Gapped SIEM Log Pipeline
+**Objective:** Deliver reliable log ingestion and correlation for environments with no external connectivity, where standard cloud-fed threat intelligence is unavailable.
+**Approach:** Designed an isolated collection and forwarding pipeline with local correlation logic, preserving detection capability without external dependencies.
+**Relevance:** Directly applicable to regulated, classified, or OT/ICS environments where air-gapping is a compliance mandate rather than a design preference.
+`SIEM` `Log Pipeline Engineering` `Isolated Network Architecture` `Detection Engineering`
+
+[Repository →](https://github.com/your-github-username/air-gapped-siem-pipeline)
+
+---
+
+### Linux Security Hardening — Auditd & Lynis
+**Objective:** Establish a repeatable, benchmarked hardening baseline for Linux hosts.
+**Approach:** Implemented kernel-level auditing via **Auditd** to capture granular system events, paired with **Lynis** for automated security scoring and CIS-aligned compliance assessment.
+**Relevance:** Supports audit-readiness and demonstrates a measurable, standards-aligned approach to endpoint hardening — a core expectation for SOC and infrastructure security roles.
+`Linux Hardening` `Auditd` `Lynis` `CIS Benchmarks` `Compliance`
+
+[Repository →](https://github.com/your-github-username/linux-security-hardening)
+
+---
+
+### Highly Available Cloud CI/CD Platform
+**Objective:** Architect a resilient CI/CD platform with security controls embedded at the pipeline level (DevSecOps).
+**Approach:** Built for high availability across cloud infrastructure with fault-tolerant deployment patterns and integrated security gating.
+**Relevance:** Demonstrates the ability to balance delivery velocity with security governance — a critical skill set as organizations shift left on security.
+`CI/CD` `High Availability` `Cloud Architecture` `DevSecOps`
+
+[Repository →](https://github.com/your-github-username/ha-cloud-cicd-platform)
+
+---
+
+## Certifications
 
 <div align="center">
 
-| Network & Security | Cloud & Virtualization | Tools & Automation |
-| :---: | :---: | :---: |
-| <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=plastic&logo=cisco&logoColor=white" alt="Cisco"/></a> | <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Microsoft_Azure-AZ--104_%2F_AZ--500-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/></a> | <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=plastic&logo=ansible&logoColor=white" alt="Ansible"/></a> |
-| <a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/Linux-Rocky_%2F_RedHat-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/></a> | <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle-OCI-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> | <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=plastic&logo=wireshark&logoColor=white" alt="Wireshark"/></a> |
-| <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-AD-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/></a> | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion"><img src="https://img.shields.io/badge/VMware-Workstation-607078?style=plastic&logo=vmware&logoColor=white" alt="VMware"/></a> | <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Net_Sec-blue?style=plastic&logo=nmap&logoColor=white" alt="Nmap"/></a> |
+| Certification | Credential Code | Issuing Body |
+|---|:---:|---|
+| Microsoft Certified: Cybersecurity Architect Expert | SC-100 | Microsoft |
+| Microsoft Certified: Security Operations Analyst Associate | SC-200 | Microsoft |
+| Microsoft Certified: Azure Security Engineer Associate | AZ-500 | Microsoft |
+| Fortinet Certified Associate (FCA) | FCA | Fortinet |
+| Cisco Certified Network Associate | CCNA | Cisco |
 
 </div>
 
+> Verified digital badges available on request or via linked Credly profile.
+
 ---
 
-### 🏆 Professional Qualifications 
+## Education
+
+**BSc (Hons), Cyber Security & Digital Forensics**
+Kingston University · Expected September 2027
+
+**Higher National Diploma (HND), Network Engineering — Awarded with Distinction**
+National Institute of Business Management (NIBM)
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  
-  
-  <img src="Images/ccna.png" height="70" alt="CCNA"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/azure-administrator-associate-az-104-300x300.png" height="70" alt="Azure Administrator"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/az 500.png" height="70" alt="Azure Security"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/az 700.png" height="70" alt="Azure Network Engineer"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/multicloud-network-associate.png" height="70" alt="Multicloud Network Associate"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/oci foun.jpeg" height="70" alt="OCI Foundations Associate"/>
-  &nbsp&nbsp&nbsp; 
-  <img src="Images/oci proo net.jpg" height="70" alt="OCI Networking Professional"/>
-  &nbsp&nbsp&nbsp; 
-  <img src="Images/oci proo ai.jpg" height="70" alt="OCI Generative AI"/>
-  &nbsp&nbsp&nbsp; 
-  <img src="Images/ocii ai asso.jpeg" height="70" alt="OCI AI Foundations"/>
-  &nbsp&nbsp&nbsp;
-  <br> <br>
-  <img src="Images/data platform assoc.jpg" height="70" alt="Oracle Data Platform"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/Oracl NetSuite Certified BI and Reporting Specialist.png" height="70" alt="NetSuite BI Specialist"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/iso-iec-27001-2022-lead-auditor.png" height="70" alt="ISO 27001 Lead Auditor"/>
-  &nbsp&nbsp&nbsp;
-  <img src="Images/fortinet-certified-associate-cybersecurity.1.png" height="70" alt="Fortinet Associate"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true" />
 
 </div>
 
-##
-
-### ☁️ Cloud & Infrastructure
-* [**Microsoft Certified: Azure Security Engineer Associate**](https://drive.google.com/file/d/1qiPj8jn9IouaJ9UdplmpJl1D9WlyZest/view?usp=drive_link) - *Microsoft*
-* [**Microsoft Certified: Azure Administrator Associate**](https://drive.google.com/file/d/1su3ITLX09UNRdC7ttqi1vOtIVwRPZtHJ/view?usp=drive_link) - *Microsoft*
-* [**Microsoft Certified: Azure Network Engineer Associate**](https://drive.google.com/file/d/1MAoXqjvJcJXd6sa90MczbdRJBinOU5lg/view?usp=drive_link) - *Microsoft*
-* [**Oracle Cloud Infrastructure 2025 Certified Networking Professional**](https://drive.google.com/file/d/16AH1M9pAQJO-3MhuTCdkpa9kUg8qyh4O/view?usp=drive_link) - *Oracle*
-* [**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**](https://drive.google.com/file/d/1w09Wbi742stLDK8n94JbmlDvCrINO_Ac/view?usp=sharing) - *Oracle*
-
-### 🛡️ Cybersecurity & Networking
-* [**Cisco Certified Network Associate (CCNA)**](https://drive.google.com/file/d/1Sz-ivWdxA0p8ziigcocdinA0Wu4GO9i9/view?usp=drive_link) - *Cisco*
-* [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1G4cDqbVDP7diefDNx7YaVjVO02Db5veM/view?usp=drive_link) - *Fortinet*
-* [**Certified Cybersecurity Educator Professional (CCEP)**](https://drive.google.com/file/d/15LS7Sp0kuMql52lhuRI-EfHHsUQztCgA/view?usp=sharing) - *Red Team Leaders*
-* [**Aviatrix Multicloud Network Associate**](https://drive.google.com/file/d/1Q6XKhEzyXlgCuX8-5UvqTyiP2wV1DRGi/view?usp=drive_link) - *Aviatrix*
-
-##
-
-<details>
-<summary><b>📂 View Full List of Certifications & Course Completions (40+)</b></summary>
-<br>
-
-| Issuing Organization | Certification / Course Name |
-| :--- | :--- |
-| **Cisco** | Cyber Threat Management |
-| **Cisco** | Endpoint Security |
-| **Cisco** | Ethical Hacker |
-| **Cisco** | Network Defence |
-| **Cisco** | Junior Cybersecurity Analyst Career Path |
-| **Oracle** | OCI 2025 Certified AI Foundations Associate |
-| **Oracle** | OCI 2025 Certified Foundations Associate |
-| **Oracle** | Oracle Data Platform 2025 Certified Foundations Associate |
-| **Oracle** | NetSuite Certified BI and Reporting Specialist |
-| **Red Hat** | Red Hat System Administration I |
-| **Red Hat** | Red Hat AI Foundations Executive |
-| **Salesforce** | Salesforce Certified Agentforce Specialist |
-| **Council for Six Sigma** | Six Sigma White Belt |
-| **EC Council** | A Practical Introduction to Cloud Computing |
-| **Fortinet** | Fortinet Certified Fundamentals in Cybersecurity |
-| **IBM** | Getting Started with Cybersecurity |
-| **Mastermind** | ISO/IEC 27001:2022 Lead Auditor |
-| **OPSWAT** | Introduction to Critical Infrastructure Protection (ICIP) |
-| **ISC2** | Certified in Cybersecurity Course (CC) |
-| **SkillFront** | ISO/IEC 27001 Information Security Associate™ |
-| **The Linux Foundation** | Introduction to Linux LFS101 |
-| **SLIIT** | AIML Engineer - Stage 1 & 2 |
-
-</details>
-
-
+> Replace `your-github-username` in each URL above with your actual GitHub handle. Cards are served by the open-source [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) projects — no account linking or authorization required.
 
 ---
 
+<div align="center">
 
+**Open to SOC Analyst, Security Engineering, and Cloud Security opportunities.**
 
+<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Send%20an%20Email-333333?style=flat-square&logo=minutemailer&logoColor=white" /></a>
 
-
+</div>
