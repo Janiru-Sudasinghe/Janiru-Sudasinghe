@@ -68,6 +68,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 <img src="https://img.shields.io/badge/Check%20Point-E4232E?style=flat-square" />
 <img src="https://img.shields.io/badge/FortiNet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Darktrace-000000?style=flat-square" />
 </p>
 
 ### Cloud Security (Multi-Cloud)
@@ -76,6 +77,8 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 <img src="https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
+
+### Cyber Threat Intelligence
 
 ---
 
