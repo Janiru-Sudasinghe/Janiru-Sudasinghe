@@ -139,17 +139,17 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 
 <div align="center">
 
-| Certification | Credential Code | Issuing Body |
-|---|:---:|---|
-| Microsoft Certified: Cybersecurity Architect Expert | SC-100 | Microsoft |
-| Microsoft Certified: Security Operations Analyst Associate | SC-200 | Microsoft |
-| Microsoft Certified: Azure Security Engineer Associate | AZ-500 | Microsoft |
-| Fortinet Certified Associate (FCA) | FCA | Fortinet |
-| Cisco Certified Network Associate | CCNA | Cisco |
+| Certification | Credential Code | Issuing Body | Domain |
+|---|:---:|---|---|
+| Microsoft Certified: Cybersecurity Architect Expert | SC-100 | Microsoft | Security Architecture |
+| Microsoft Certified: Security Operations Analyst Associate | SC-200 | Microsoft | Security Operations |
+| Microsoft Certified: Azure Security Engineer Associate | AZ-500 | Microsoft | Cloud Security |
+| Fortinet Certified Associate | FCA | Fortinet | Network Security |
+| Cisco Certified Network Associate | CCNA | Cisco | Networking Fundamentals |
 
 </div>
 
-> Verified digital badges available on request or via linked Credly profile.
+> Verified digital badges available via Credly and on request during interview or reference processes.
 
 ---
 
@@ -180,9 +180,14 @@ National Institute of Business Management (NIBM)
 
 <div align="center">
 
+| Channel | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle) |
+| Email | [your.email@example.com](mailto:your.email@example.com) |
+| GitHub | [github.com/your-github-username](https://github.com/your-github-username) |
+
 **Open to SOC Analyst, Security Engineering, and Cloud Security opportunities.**
 
-<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Send%20an%20Email-333333?style=flat-square&logo=minutemailer&logoColor=white" /></a>
+*"Detect early. Respond decisively. Harden continuously."*
 
 </div>
