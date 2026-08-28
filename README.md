@@ -138,15 +138,24 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 ## Certifications
 
 <div align="center">
-
+ 
 | Certification | Credential Code | Issuing Body | Domain |
 |---|:---:|---|---|
 | Microsoft Certified: Cybersecurity Architect Expert | SC-100 | Microsoft | Security Architecture |
 | Microsoft Certified: Security Operations Analyst Associate | SC-200 | Microsoft | Security Operations |
+| Microsoft Certified: Identity and Access Administrator Associate | SC-300 | Microsoft | Identity & Access Management |
 | Microsoft Certified: Azure Security Engineer Associate | AZ-500 | Microsoft | Cloud Security |
+| Microsoft Certified: Azure Administrator Associate | AZ-104 | Microsoft | Cloud Administration |
+| Microsoft Certified: Azure Network Engineer Associate | AZ-700 | Microsoft | Cloud Networking |
 | Fortinet Certified Associate | FCA | Fortinet | Network Security |
 | Cisco Certified Network Associate | CCNA | Cisco | Networking Fundamentals |
-
+| ISO/IEC 27001:2022 Lead Auditor | — | PECB / Accredited Body | Information Security Governance |
+| Red Hat System Administration II | RH134 | Red Hat | Linux Systems Administration |
+| OCI Networking Professional | — | Oracle | Cloud Networking |
+| Aviatrix Multi-Cloud Network Associate | MCNA | Aviatrix | Multi-Cloud Networking |
+| Nutanix Certified Professional — Network & Security | NCP-N&S 7 | Nutanix | Hybrid Cloud Networking & Security |
+| Google Cloud Associate Cloud Engineer | — | Google Cloud | Cloud Engineering |
+ 
 </div>
 
 > Verified digital badges available via Credly and on request during interview or reference processes.
@@ -158,7 +167,7 @@ Beyond the technical remit, brings demonstrated leadership and stakeholder-manag
 **BSc (Hons), Cyber Security & Digital Forensics**
 Kingston University · Expected September 2027
 
-**Higher National Diploma (HND), Network Engineering — Awarded with Distinction**
+**Higher National Diploma (HND), Network Engineering - Awarded with Distinction**
 National Institute of Business Management (NIBM)
 
 ---
@@ -167,14 +176,12 @@ National Institute of Business Management (NIBM)
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Janiru-Sudasinghe&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiru-Sudasinghe&layout=compact&theme=default&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janiru-Sudasinghe&theme=default&hide_border=true" />
 
 </div>
-
-> Replace `your-github-username` in each URL above with your actual GitHub handle. Cards are served by the open-source [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) projects — no account linking or authorization required.
 
 ---
 
@@ -182,9 +189,9 @@ National Institute of Business Management (NIBM)
 
 | Channel | Link |
 |---|---|
-| LinkedIn | [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle) |
-| Email | [your.email@example.com](mailto:your.email@example.com) |
-| GitHub | [github.com/your-github-username](https://github.com/your-github-username) |
+| LinkedIn | [linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/janiru-sudasinghe-7182b7186/) |
+| Email | [Email_Me](mailto:janirusudasinghe@gmail.com) |
+| GitHub | [github.com/Janiru-Sudasinghe](https://github.com/Janiru-Sudasinghe) |
 
 **Open to SOC Analyst, Security Engineering, and Cloud Security opportunities.**
 
