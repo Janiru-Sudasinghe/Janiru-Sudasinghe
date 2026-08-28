@@ -25,7 +25,7 @@ Cybersecurity undergraduate and practicing SOC Analyst with hands-on operational
 
 Working knowledge spans **multi-cloud security architecture** (Azure, OCI, GCP), **network perimeter defense** (Check Point, FortiGate), and **Linux system hardening**, underpinned by formal training toward Microsoft, Fortinet, and Cisco security certifications. Actively expanding cloud and applied-AI competencies through the **Google Developer Program (GEAR)** and the **Google Cloud Arcade Facilitator Program**.
 
-Beyond the technical remit, brings demonstrated leadership and stakeholder-management capability — evidenced by tenure as **Head Prefect** and **Volunteer Instructor** — and operates as an **ENFJ-A**, a profile associated with structured communication, team coordination, and cross-functional collaboration, all directly transferable to SOC shift-handover discipline and incident-response coordination.
+Beyond the technical remit, brings demonstrated leadership and stakeholder-management capability. Evidenced by tenure as **Head Prefect** and **Volunteer Instructor** and operates as an **ENFJ-A**, a profile associated with structured communication, team coordination, and cross-functional collaboration, all directly transferable to SOC shift-handover discipline and incident-response coordination.
 
 ---
 
